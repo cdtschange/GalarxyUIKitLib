@@ -1,0 +1,9 @@
+//
+// Prefix header for all source files of the 'GalarxyUIKitLib' target in the 'GalarxyUIKitLib' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+    #import "GalarxyConfig.h"
+#endif
